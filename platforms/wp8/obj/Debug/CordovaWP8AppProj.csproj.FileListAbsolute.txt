@@ -1,0 +1,15 @@
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\Bin\Debug\Background.png
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\Bin\Debug\net.comnetsoftware.audiotest.dll
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\Bin\Debug\net.comnetsoftware.audiotest.pdb
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\obj\Debug\App.g.cs
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\obj\Debug\Plugins\org.apache.cordova.media-capture\AudioRecorder.g.cs
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\obj\Debug\Plugins\org.apache.cordova.media-capture\VideoRecorder.g.cs
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\obj\Debug\net.comnetsoftware.audiotest.g.resources
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\obj\Debug\net.comnetsoftware.audiotest.dll
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\obj\Debug\net.comnetsoftware.audiotest.pdb
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\obj\Debug\XapCacheFile.xml

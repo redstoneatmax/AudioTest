@@ -1,0 +1,6 @@
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\cordova\lib\CordovaDeploy\CordovaDeploy\bin\Debug\CordovaDeploy.exe.config
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\cordova\lib\CordovaDeploy\CordovaDeploy\bin\Debug\CordovaDeploy.exe
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\cordova\lib\CordovaDeploy\CordovaDeploy\bin\Debug\CordovaDeploy.pdb
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\cordova\lib\CordovaDeploy\CordovaDeploy\obj\x86\Debug\CordovaDeploy.csprojResolveAssemblyReference.cache
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\cordova\lib\CordovaDeploy\CordovaDeploy\obj\x86\Debug\CordovaDeploy.exe
+C:\Users\Robbie\Downloads\Recording Test2 (2)\audio\platforms\wp8\cordova\lib\CordovaDeploy\CordovaDeploy\obj\x86\Debug\CordovaDeploy.pdb
