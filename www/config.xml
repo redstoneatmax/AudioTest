@@ -6,14 +6,14 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>HelloWorld</name>
+    <name>AudioTest</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Audio recording and sending to server test.
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href="http://comnetsoftware.net" email="klanger@comnetsoftware.net">
+        Com-Net Software
     </author>
 
     <!--
